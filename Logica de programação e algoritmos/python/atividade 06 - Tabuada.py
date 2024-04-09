@@ -1,0 +1,12 @@
+numero = float(input("digite o número: "))
+
+print("1 x ", numero, " = ", (1*numero))
+print("2 x", numero, " = ", (2*numero))
+print("3 x", numero, " = ", (3*numero))
+print("4 x", numero, " = ", (4*numero))
+print("5 x", numero, " = ", (5*numero))
+print("6 x", numero, " = ", (6*numero))
+print("7 x", numero, " = ", (7*numero))
+print("8 x", numero, " = ", (8*numero))
+print("9 x", numero, " = ", (9*numero))
+print("10 x", numero, " = ", (10*numero))
