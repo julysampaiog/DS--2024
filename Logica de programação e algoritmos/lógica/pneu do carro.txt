@@ -1,0 +1,10 @@
+1. retirar opneu reserva e o macaco hidráulico porta-malas;
+2. localizar o ponto correto de apoio para macaco no carro;
+3. posicionar o macaco hidráulico sob o carro;
+4. afrouxar os parafusos do pneu furado;
+5. levantar o carro com macaco hidráulico;
+6. retirar os parafusos e remover o pneu furado;
+7. colocar pneu reserva no lugar;
+8. apertar parafusos do pneu reserva;
+9. baixar o carro com o macaco hidráulico e apertar ainda mais os parafusos;
+10. guardar o macaco hidráulico e o pneu reserva no porta-malas.
